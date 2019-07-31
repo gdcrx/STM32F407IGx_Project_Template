@@ -77,7 +77,7 @@ void HAL_MspInit(void)
 {
   /* NOTE : This function is generated automatically by STM32CubeMX and eventually  
             modified by the user
-  ÖĞ¶Ï·Ö×é£¬ÉèÖÃÎªNVIC_PRIORITYGROUP_2£¬ÇÀÕ¼ÖĞ¶ÏPreemptPriority£º0-3£¬SubPriority£º0-3
+  ä¸­æ–­åˆ†ç»„ï¼Œè®¾ç½®ä¸ºNVIC_PRIORITYGROUP_2ï¼ŒæŠ¢å ä¸­æ–­PreemptPriorityï¼š0-3ï¼ŒSubPriorityï¼š0-3
    */ 
   
   HAL_NVIC_SetPriorityGrouping(NVIC_PRIORITYGROUP_2);
